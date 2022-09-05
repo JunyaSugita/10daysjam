@@ -98,7 +98,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\KamataEngine20220407\KamataEngine\DirectXGame\MatCalc.cpp" />
     <ClCompile Include="..\..\..\..\..\..\KamataEngine20220407\KamataEngine\DirectXGame\math\Matrix4.cpp" />
-    <ClCompile Include="..\..\KamataEngine20220407\KamataEngine\DirectXGame\math\Vec3.cpp" />
+    <ClCompile Include="..\..\..\KamataEngine20220407\KamataEngine\DirectXGame\math\Vector3.cpp" />
     <ClCompile Include="base\DirectXCommon.cpp" />
     <ClCompile Include="base\TextureManager.cpp" />
     <ClCompile Include="base\WinApp.cpp" />
@@ -132,7 +132,7 @@
     <ClInclude Include="math\MathUtility.h" />
     <ClInclude Include="math\Matrix4.h" />
     <ClInclude Include="math\Vector2.h" />
-    <ClInclude Include="math\Vec3.h" />
+    <ClInclude Include="math\Vector3.h" />
     <ClInclude Include="math\Vector4.h" />
     <ClInclude Include="scene\GameScene.h" />
     <ClInclude Include="Vec2.h" />
