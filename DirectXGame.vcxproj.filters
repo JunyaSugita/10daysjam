@@ -75,6 +75,9 @@
     <ClCompile Include="..\..\..\..\..\..\KamataEngine20220407\KamataEngine\DirectXGame\math\Matrix4.cpp">
       <Filter>ソース ファイル\math</Filter>
     </ClCompile>
+    <ClCompile Include="Vec2.cpp">
+      <Filter>ソース ファイル\math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3d\ViewProjection.h">
@@ -160,6 +163,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\..\KamataEngine20220407\KamataEngine\DirectXGame\MatCalc.h">
       <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec2.h">
+      <Filter>ヘッダー ファイル\math</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
